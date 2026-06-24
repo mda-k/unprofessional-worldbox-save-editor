@@ -1,5 +1,5 @@
 import customtkinter as ctk
-print("hellO")
+print("running")
 from ui.start import *
 
 choose_ui()
